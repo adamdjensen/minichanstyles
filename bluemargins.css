@@ -5,6 +5,11 @@
 #notice {
  text-align:center
 }
+#main_menu{
+  position: fixed;
+  top: 0;
+  width: auto;
+}
 body {
  background-color:#e7f4ff;
   margin-left: auto; 

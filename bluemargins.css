@@ -9,6 +9,7 @@
   position: fixed;
   top: 0;
   width: auto;
+  align: center;
 }
 body {
  background-color:#e7f4ff;
